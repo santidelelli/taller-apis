@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    width: 5%;
+    height: 50px;
+    font-size: 200%;
+}
+
+#dato {
+    margin: 1em;
+    font-size: 150%;
+}
